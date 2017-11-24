@@ -31,7 +31,7 @@ multi_stroke_relation_data(i)			(character sample)
 	multi_stroke_relation_data(i).ip_vector	(stroke relation vector of the character)
 ```
 
-### multi_stroke_relation_data.mat	(testing_data for character classification)
+### multi_stroke_relation_test_data.mat	(testing_data for character classification)
 
 ```
 size : 1 x 400
